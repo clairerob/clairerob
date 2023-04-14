@@ -11,13 +11,13 @@
 
 - 👯 I’m currently collaborating on [a Papa John's clone](https://github.com/Eyetifacts/Pizza_ShopFE)
 
-- 👨‍💻 All of my projects are available at [https://claireroberts-portfolio.netlify.app/](https://claireroberts-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [my portfolio site](https://claireroberts-portfolio.netlify.app/)
 
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **claire.r.roberts01@gmail.com**
 
-- 📄 Know about my experiences [https://claireroberts-portfolio.netlify.app/assets/ClaireRobertsResume-fd534f32.pdf](https://claireroberts-portfolio.netlify.app/assets/ClaireRobertsResume-fd534f32.pdf)
+- 📄 Know about my experiences [see my resume](https://claireroberts-portfolio.netlify.app/assets/ClaireRobertsResume-fd534f32.pdf)
 
 - ⚡ Fun fact **I've worked for years in craft coffee and cocktails**
 
